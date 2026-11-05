@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-depreciation-dart-desktop",
+  "capabilityKey": "liberusoftware/module-accounting-depreciation",
+  "presentation": "dart-desktop",
+  "package": "module_accounting_depreciation_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/accounting/nextjs/depreciation.md",
+  "presentationPlan": "projects/accounting/features/depreciation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
